@@ -1,0 +1,11 @@
+ Problem statement
+
+Based on the given financial data create a ML model to predict if the client is high risk or low risk if we were to provide them loan. We need to predict the column Risk_Flag and it contains value 1 if the client is high risk else it will be 0.
+ 
+Perform all the various steps of machine learning like data exploration, feature engineering and model building.
+ 
+Create a PDF report and share it containing below details:
+- data vizualizations
+- data exploration insights
+- model performance
+- understand main deciding factors associated with risk
